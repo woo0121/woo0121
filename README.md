@@ -36,7 +36,7 @@
     <tr>
       <td>
         <a href="https://www.youtube.com/watch?v=d_i7p1Bc1KY" title="교수님의 체크메이트 설명 영상">
-        
+          <img width="697" height="991" alt="Image" src="https://github.com/user-attachments/assets/b811d741-aae6-4d9a-bdbf-ec1451a3e2ea" />
         </a>
       </td>
     </tr>
