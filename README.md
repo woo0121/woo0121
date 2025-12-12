@@ -11,7 +11,7 @@
 <br />
 
 # 📝Projects
-3개월간 진행했던 프로젝트들 입니다!  
+3개월간 진행했던 프로젝트 입니다!  
 팀원으로서는 커뮤니케이션과 개발 일정의 대한 조율, 프로젝트 관리 등 많은 경험을 할 수 있었습니다.
 
 ## 1. 🛫 교수님의 체크메이트
@@ -37,13 +37,13 @@
     <tr>
       <td>
         <a href="https://www.youtube.com/watch?v=d_i7p1Bc1KY" title="교수님의 체크메이트 설명 영상">
-          <img align="center" src="" width="300" alt-text="판타스틱4조 - 머신러닝기초 4주차 스터디영상">
+        
         </a>
       </td>
     </tr>
   </tbody>
 </table>
-> <b><em><a href="https://www.youtube.com/channel/UCdnXRtn_xnRWzZxUGY0yyWg/videos">More videos...</a></em></b>
+>
 
 
 <br />
