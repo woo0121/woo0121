@@ -22,8 +22,6 @@
 > - 담당 역할 : 게임 내 컨텐츠 기획 및 구현, 각종 버그 수정
 > 
 >> - Skill : Unity, C#, UnityEvent, Interface
->> 
->> [프로젝트 상세 설명](sshikut/Teminai: Teminai Repository)  
 
 
 
